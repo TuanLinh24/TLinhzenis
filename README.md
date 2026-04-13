@@ -1,9 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+Tuan+Linh!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+Tuan+Linh!;" />
 </h1>
-<div align="center" style="line-height: 1.5;">
-    <h3>University of transport and communications campus in Ho Chi Minh city</h3>
-    <p>⚡ Major: Information Technology.</p>
+
+<div align="center">
+  <h3>University of transport and communications campus in Ho Chi Minh city</h3>
+  <p>⚡ Major: Information Technology.</p>
 </div>
 
 <div align="center"> 
@@ -11,20 +12,41 @@
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   
-  <a href= "https://tuanlinh24.github.io/Portforlio/port.html" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://tuanlinh24.github.io/Portforlio/port.html" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
 <hr/>
+
 <h2 align="center">⚡ Github Stats ⚡</h2>
-<br>
+
 <div align="center">
-  <a href="#" title="Tuan Linh's Stats">
-    <img width="375" height="187.5" align="center" style="margin-right: 50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanLinh24&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=282a36&langs_count=8&layout=compact&border_color=ff79c6&hide_border=true&custom_title=My%20Stats&theme=dracula&langs_color=bd93f9,ff79c6" />
-  </a>
-  <a href="#" title="Tuan Linh's Github Stats ">
-    <img width="375" height="187.5" align="center" style="margin-left: 50px;" src="https://github-readme-stats.vercel.app/api?username=TuanLinh24&show_icons=true&theme=dracula&border_color=ff79c6&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
+
+  <!-- Tổng stats -->
+  <img width="400" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=TuanLinh24&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=86400" />
+
+  <!-- Ngôn ngữ -->
+  <img width="400" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TuanLinh24&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" />
+
 </div>
 
+<br/>
+
+<h2 align="center">🔥 Streak Stats 🔥</h2>
+
+<div align="center">
+  <img width="600" 
+       src="https://streak-stats.demolab.com?user=TuanLinh24&theme=dracula&hide_border=true&cache_seconds=86400" />
+</div>
+
+<br/>
+
+<h2 align="center">📈 Activity Graph 📈</h2>
+
+<div align="center">
+  <img width="90%" 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=TuanLinh24&theme=dracula&hide_border=true" />
+</div>
